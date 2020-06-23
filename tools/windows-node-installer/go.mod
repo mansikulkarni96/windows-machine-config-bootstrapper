@@ -20,7 +20,6 @@ require (
 	github.com/coreos/etcd v3.3.10+incompatible
 	github.com/coreos/go-systemd v0.0.0-20190321100706-95778dfbb74e // indirect
 	github.com/coreos/pkg v0.0.0-20180928190104-399ea9e2e55f // indirect
-	github.com/json-iterator/go v1.1.10 // indirect
 	github.com/masterzen/winrm v0.0.0-20190308153735-1d17eaf15943
 	github.com/openshift/api v0.0.0-20200422081840-fdd1b0c14c88
 	github.com/openshift/client-go v0.0.0-20200422192633-6f6c07fc2a70
@@ -30,9 +29,7 @@ require (
 	github.com/stretchr/testify v1.4.0
 	golang.org/x/crypto v0.0.0-20200220183623-bac4c82f6975
 	golang.org/x/net v0.0.0-20200602114024-627f9648deb9 // indirect
-	golang.org/x/text v0.3.3 // indirect
-	gopkg.in/yaml.v2 v2.3.0 // indirect
-	k8s.io/api v0.18.4
-	k8s.io/apimachinery v0.18.4
+	k8s.io/api v0.18.3
+	k8s.io/apimachinery v0.18.3
 	k8s.io/client-go v0.18.2
 )
